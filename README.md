@@ -4,9 +4,9 @@ A proxy for google maps api project written in F# using Giraffe the web framewor
 This program allows you to proxy calls to the Directions and AutoComplete Apis from google.
 
 ## Setup:
-In the command line, cd into the root folder of the project and run `$ .paket/paket.exe install` to install the paket extension for vs code.
-Use the paket restore command to restore the packages locally.(https://fsprojects.github.io/Paket/index.html - for more info)
-Add the gogole api to the code in the GoogleApiHelpers.fs file on line 12:
+- In the command line, cd into the root folder of the project and run `$ .paket/paket.exe install` to install the paket extension for vs code.
+- Use the paket restore command to restore the packages locally.(https://fsprojects.github.io/Paket/index.html - for more info)
+- Add the gogole api to the code in the GoogleApiHelpers.fs file on line 12:
 `let googleApiKey = "GOOGLE_MAPS_API_KEY"`
 
 ## Why?
