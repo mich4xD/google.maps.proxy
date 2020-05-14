@@ -6,7 +6,7 @@ Built using the Giraffe web framework and functional types that allow more respo
 ## Setup:
 - In the command line, cd into the root folder of the project and run `$ .paket/paket.exe install` to install the paket extension for vs code.
 - Use the paket restore command to restore the packages locally.(https://fsprojects.github.io/Paket/index.html - for more info)
-- Add the gogole api to the code in the GoogleApiHelpers.fs file on line 12:
+- Add the gogole api to the code in `the Src/Controllers/GoogleApiHelpers.fs` file on line 12:
 `let googleApiKey = "GOOGLE_MAPS_API_KEY"`
 
 ## Why?
