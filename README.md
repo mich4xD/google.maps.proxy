@@ -12,8 +12,7 @@ Built using the Giraffe web framework and functional types that allow more respo
 ## Why?
 It's a good habbit to not expose external api keys on the publicly exposed client of an application.
 
-For more production ready setup that includes usage of vault, ci/cd pipeline and more,
-please check https://github.com/shrideio/shoebox
+For more production ready setup that includes usage of vault, ci/cd pipeline and more: https://github.com/shrideio/shoebox
 
 ## Build and test the application
 
