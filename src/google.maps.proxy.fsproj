@@ -5,6 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Controllers/Types.fs" />
+    <Compile Include="Extras/Furl.fs" />
+    <Compile Include="Controllers/GoogleApiHelpers.fs" />
+    <Compile Include="Controllers/AutoComplete.fs" />
+    <Compile Include="Controllers/Directions.fs" />
     <Compile Include="Controllers/Ping.fs" />
     <Compile Include="Controllers/WebApi.fs" />
     <Compile Include="Program.fs" />

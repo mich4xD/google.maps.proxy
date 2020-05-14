@@ -1,4 +1,4 @@
-module Google.Maps.Proxy
+module Google.Maps.Proxy.Program
 
 open System
 open System.IO
