@@ -1,4 +1,4 @@
-# google.maps.proxy
+# Google.Maps.Proxy
 
 A proxy for google maps api project written in F# using Giraffe the web framework and functional types such as Result and AsyncResult that help converting exceptions into Result.Error which requires you to account for them explicitly.
 This program allows you to proxy calls to the Directions and AutoComplete Apis from google.
