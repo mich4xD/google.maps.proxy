@@ -1,7 +1,7 @@
 # Google.Maps.Proxy
 
 F# proxy for google maps api that allows you to proxy calls to the Directions and AutoComplete Apis from google.
-Built using the Giraffe web framework and functional types that allow more responsible approach for error/exception handling.
+Built using the Giraffe web framework and functional types that allow a responsible approach to error/exception handling.
 
 ## Setup:
 - In the command line, cd into the root folder of the project and run `$ .paket/paket.exe install` to install the paket extension for vs code.
